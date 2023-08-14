@@ -2,6 +2,11 @@
 
 Created by the Non-invasive Brain Stimulation Lab (University Medical Center Göttingen) (PI: Andrea Antal)
 
+![NBS_Logo](https://github.com/ludi94/ASRT_tACS/assets/105629820/bbdefaab-59f4-4855-a5d6-907b24174a37)
+
+
+For the project titled:
+"Can we enhance Non-Declarative Memory Functions in Older Adults through Non-Invasive Theta-Gamma Cross-Frequency Transcranial Alternating Current Stimulation?"
 
 Raw data as well as R code for data analysis and visualization.
 
