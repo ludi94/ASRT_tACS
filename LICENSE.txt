@@ -2,6 +2,6 @@
 
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)]. 
-Please review the Creative Commons License Agreement for more details.
-(http://creativecommons.org/licenses/by-nc/4.0/)
+Please review the [Creative Commons License Agreement](http://creativecommons.org/licenses/by-nc/4.0/) for more details.
+
 
