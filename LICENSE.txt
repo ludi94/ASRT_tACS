@@ -5,3 +5,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 Please review the [Creative Commons License Agreement](http://creativecommons.org/licenses/by-nc/4.0/) for more details.
 
 
+For the full license text, visit: [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
