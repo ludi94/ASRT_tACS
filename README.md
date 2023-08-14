@@ -2,7 +2,7 @@
 
 Created by the Non-invasive Brain Stimulation Lab (University Medical Center Göttingen) (PI: Andrea Antal)
 
-![NBS_Logo](https://github.com/ludi94/ASRT_tACS/assets/105629820/bbdefaab-59f4-4855-a5d6-907b24174a37)
+![NBS_logo_signatur](https://github.com/ludi94/ASRT_tACS/assets/105629820/d8f1c62f-8d43-40a6-9266-ff9f22d7566d)
 
 
 For the project titled:
